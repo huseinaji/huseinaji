@@ -9,6 +9,8 @@ Still learning every day.
 - Python | FastAPI • Flask (kalo terpaksa)
 - Golang | Gin
 - Database | PostgreSQL • Mysql • Mongo
+- Cache/message stream | Redis • RabbitMq
+
 <p align="center">
 <a href="https://github.com/huseinaji">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huseinaji&layout=compact&langs_count=8&theme=algolia"/>
